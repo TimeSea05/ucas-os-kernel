@@ -1,0 +1,7 @@
+.vscode
+.gdbinit
+rebuild.sh
+build
+*.txt
+createimage_sig
+backup
